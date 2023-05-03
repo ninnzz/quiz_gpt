@@ -1,0 +1,16 @@
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+
+sdd_common.egg-info
+dist/
+.idea
+venv
+.venv
+.env
+
+.mypy_cache/
+.pytest_cache/
+
+.python-version
+data/results
